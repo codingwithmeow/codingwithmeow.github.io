@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(173, 168, 168);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(116, 110, 143);
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+
+}
